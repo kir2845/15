@@ -1,0 +1,28 @@
+{
+            "country": "РФ",
+            "category": "",
+            "title": "Сугомак",
+            "other_titles": "нет другого",
+            "connect": "нет",
+            "status": "new",
+            "method_of_passage": "",
+            "user": {
+                "surname": "Бабкин",
+                "name": "Андрей",
+                "patronymic": "Юрьевич",
+                "email": "kir2845@mail.ru",
+                "telephone": "+79518001704"
+            },
+            "coords": {
+                "latitude": "65.3842",
+                "longitude": "17.15251",
+                "height": "2200"
+            },
+            "level": {
+                "winter": "",
+                "spring": "",
+                "summer": "",
+                "autumn": ""
+            },
+            "images": [{"title": "вершина1", "photo": " https://nashural.ru/assets/uploads/ekk28.jpg "}]
+        }

@@ -1,0 +1,28 @@
+{
+    "country": "РФ",
+    "category": "перевал",
+    "title": "Озерный",
+    "other_titles": "",
+    "connect": "соединяет две горы",
+    "status": "new",
+    "method_of_passage": "пешком",
+    "user": {
+        "surname": "Бабкин",
+        "name": "Андрей",
+        "patronymic": "Юрьевич",
+        "email": "kir2845@mail.ru",
+        "telephone": "+79518001704"
+    },
+    "coords": {
+        "latitude": 15.3842,
+        "longitude": 87.15201,
+        "height": 3200
+    },
+    "level": {
+        "winter": "1b",
+        "spring": "",
+        "summer": "1a",
+        "autumn": "1a"
+    },
+    "images": [{"title": "перевал", "photo": "https://dicovage.com/image/data/journal2/blog/cikavinki/Dorohu/190.jpg"}]
+}

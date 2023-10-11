@@ -1,0 +1,28 @@
+{
+    "country": "РФ",
+    "category": "",
+    "title": "Егоза",
+    "other_titles": "Егоза",
+    "connect": "нет",
+    "status": "pending",
+    "activities": "",
+    "user": {
+        "surname": "Бабкин",
+        "name": "Андрей",
+        "patronymic": "Юрьевич",
+        "email": "kir2845@mail.ru",
+        "telephone": "+79518001704"
+    },
+    "coords": {
+        "latitude": 45.3842,
+        "longitude": 7.15201,
+        "height": 1200
+    },
+    "level": {
+        "winter": "2b",
+        "spring": "",
+        "summer": "1a",
+        "autumn": ""
+    },
+    "images": [{"title": "вершина1", "photo": " https://uraloved.ru/images/mesta/chel-obl/kishtim/egoza-5.jpg "}]
+}

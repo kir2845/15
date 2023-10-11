@@ -1,0 +1,28 @@
+{
+    "country": "РФ",
+    "category": "горная вершина",
+    "title": "Зюраткуль",
+    "other_titles": "",
+    "connect": "нет",
+    "status": "new",
+    "method_of_passage": "пешая прогулка",
+    "user": {
+        "surname": "Бабкина",
+        "name": "Лариса",
+        "patronymic": "Вячеславовна",
+        "email": "elena.alena1275@yandex.ru",
+        "telephone": "+79518001704"
+    },
+    "coords": {
+        "latitude": 65.3842,
+        "longitude": 25.15251,
+        "height": 1640
+    },
+    "level": {
+        "winter": "2a",
+        "spring": "",
+        "summer": "1a",
+        "autumn": ""
+    },
+        "images": [{"title": "вершина", "photo": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ht5Brvr4t_Ky66-pYaAvIY1rN8qEAmbwWhDjgRRtcilNqeTL0eKicMuirwiqymk0epM&usqp=CAU"}, {"title": "озеро", "photo": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ht5Brvr4t_Ky66-pYaAvIY1rN8qEAmbwWhDjgRRtcilNqeTL0eKicMuirwiqymk0epM&usqp=CAU"}]
+}
